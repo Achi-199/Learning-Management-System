@@ -61,6 +61,8 @@ php artisan serve
 
 - Access the application at `http://localhost:8000`
 - Register as a teacher or student
+- teacher1 - teacher1@example.com , password123
+- teacher2 - teacher2@example.com , password123
 - Teachers can create subjects and assign tasks
 - Students can view assigned tasks and submit solutions
 - Teachers can grade student submissions
